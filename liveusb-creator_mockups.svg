@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   width="355.09286mm"
+   height="1222.8571mm"
+   viewBox="0 0 355.09287 1222.8571"
    id="svg8664"
    version="1.1"
    inkscape:version="0.91+devel r13893"
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="514.6135"
-     inkscape:cy="-545.85433"
+     inkscape:zoom="0.25"
+     inkscape:cx="427.10016"
+     inkscape:cy="3435.3317"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,11 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
   <metadata
      id="metadata8669">
     <rdf:RDF>
@@ -57,31 +61,31 @@
      inkscape:label="Base Window"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-87)"
+     transform="translate(12.979189,312.12775)"
      style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="16.668751"
-       y="451.78101"
+       y="478.23929"
        id="text11974"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="16.668751"
-         y="451.78101"
+         y="478.23929"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11976">Select the disk you would like to install the live environment on:</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11900"
-       width="143.93333"
-       height="90.487495"
-       x="190.5"
-       y="232.44167" />
+       width="212.40779"
+       height="77.017113"
+       x="7.1531038"
+       y="-291.99545" />
     <rect
        ry="0"
        rx="0"
-       y="116.15313"
+       y="121.97394"
        x="7.8010426"
        height="138.38542"
        width="172.51666"
@@ -89,419 +93,54 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-130.70415"
-       y="83.745827"
-       id="text9215"
-       sodipodi:linespacing="521%"><tspan
-         sodipodi:role="line"
-         id="tspan9217"
-         x="-130.70415"
-         y="83.745827"
-         style="stroke-width:0.26458332px">select disk</tspan></text>
-    <text
-       sodipodi:linespacing="521%"
-       id="text9219"
-       y="147.24582"
-       x="-130.70415"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.26458332px"
-         y="147.24582"
-         x="-130.70415"
-         id="tspan9221"
-         sodipodi:role="line">select fedora</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-130.70415"
-       y="242.49591"
-       id="text9223"
-       sodipodi:linespacing="521%"><tspan
-         sodipodi:role="line"
-         id="tspan9225"
-         x="-130.70415"
-         y="242.49591"
-         style="stroke-width:0.26458332px">go!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-120.12081"
-       y="197.51666"
-       id="text9227"
-       sodipodi:linespacing="521%"><tspan
-         sodipodi:role="line"
-         id="tspan9229"
-         x="-120.12081"
-         y="197.51666"
-         style="stroke-width:0.26458332px">DL</tspan></text>
-    <text
-       sodipodi:linespacing="521%"
-       id="text9231"
-       y="209.68756"
-       x="-120.12081"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.26458332px"
-         y="209.68756"
-         x="-120.12081"
-         id="tspan9233"
-         sodipodi:role="line">provide (auto detect)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-130.70415"
-       y="226.6209"
-       id="text9235"
-       sodipodi:linespacing="521%"><tspan
-         sodipodi:role="line"
-         id="tspan9237"
-         x="-130.70415"
-         y="226.6209"
-         style="stroke-width:0.26458332px">select storage</tspan></text>
-    <text
-       sodipodi:linespacing="521%"
-       id="text9239"
-       y="96.710373"
-       x="-116.68123"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.26458332px"
-         y="96.710373"
-         x="-116.68123"
-         id="tspan9241"
-         sodipodi:role="line">no disk inserted</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-116.68123"
-       y="108.88128"
-       id="text9243"
-       sodipodi:linespacing="521%"><tspan
-         sodipodi:role="line"
-         id="tspan9245"
-         x="-116.68123"
-         y="108.88128"
-         style="stroke-width:0.26458332px">refresh disk list</tspan></text>
-    <text
-       sodipodi:linespacing="521%"
-       id="text9247"
-       y="121.05208"
-       x="-116.68123"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.26458332px"
-         y="121.05208"
-         x="-116.68123"
-         id="tspan9249"
-         sodipodi:role="line">browse disk?</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="16.668751"
-       y="158.09375"
+       y="163.91451"
        id="text9251"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="16.668751"
-         y="158.09375"
+         y="163.91451"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan10657">The Fedora live environment will be installed to '2.0 GB Drive / </tspan><tspan
          sodipodi:role="line"
          x="16.668751"
-         y="164.26736"
+         y="170.08812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11164">2.0 Flash Disk.' </tspan></text>
-    <image
-       y="148.83334"
-       x="-14.022919"
-       id="image9767"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAQdEVY
-dFRpdGxlAEhhcmQgRHJpdmWpT7cyAAAAFHRFWHRBdXRob3IASmFrdWIgU3RlaW5lcub79y8AAAAj
-dEVYdFNvdXJjZQBodHRwOi8vdGFuZ28uZnJlZWRlc2t0b3Aub3JnfbKMpwAAA/FJREFUSIntlk1v
-W0UUhp+ZO/fD99qNnbi1qdtQGgmlpBTxIQpS9kFqKsSma6JGpUJCSBVi0w27/gA2XbCiCyR+Qe8a
-6LbqriGLiiZNSF37NsaOnTtzZ1gkcVMEEkJ0gcSRjkYaad73nPOeOTNiYWGBF2nyhaL/T/B3TP1x
-49qXn1/UWn8b+EEkQAghKGyBMQVCCGetxRaGwjphrcVZh7XW5Xk+xLqLt25999NfEqRp6l374rOb
-Z2fPVcMwIo5jPM8DoCgKtNb0ets4B0op8jzHGMPGxgbb20+j7V73mzRNX1tYWHAHmPIQuLh58+s3
-fT+cjKISvu8jhADAWou1lp2dHexexGRZRpZldLtdPM+jVptkOByevnHjq5nDQR/WQPpheHnm9Kvh
-YDBAKcVod5etrS02NjdZX19Ha40xhtFohLV2fLBSqSClpNWa9gonl9I0FX9KIIS81DjWEL7vc39l
-haybEQQBpSgiSRKKosBai3PuOf/l4UOcc5yZPeMZbZYO48qD8ly/fv38qZdfOSKl5Mc7dzh29ChB
-4GOMwRhDpVKhXq9z/Phxpqam0FqPCWrVKr9uPWZiokoUlepXriy9cZDFgcgyKZeW5+bOqkePNmg2
-Gmitxxo457h37x71eh2ALMtQSuF5Hs7tadJsHGPl51Xefusdf33t0VXgKuD2UpnDM6b4aLI2SZZl
-/Nbvo7UeuzGGRqOBlBIhBOVyGaXUWHyATjfj4doaMzMzDEfDSwfVkWmaiuX3l+ebzWa8V+OClxoN
-ms0mURSN29MYg9aaPM/HWhRFQalUYnp6miSJmTszSxiGTByZiBcXF+fTNBUKkEkSf3r+3fdUu93G
-GIOUkgcPHlCr1Wi1WlhrEUJgjMFai+d5WGuRUpJlGZ1Oh/rUFEoptNbMz8/7vV7vGvCDAmR/MFjs
-drusra0xMTGBlBIpJe12m3a7PdZBqT3JRqMRxhgAgiAgCAKUUiilWF1dJY5jBoPBB4CnZmdnj/S2
-e+rEyRNMn5xGymede/iiHURvraWwlsIYdnd36ff77AyHDEcjuk+3KazjyZMOeZ57rVarooQQ5SiK
-7NF63Vu6/DFREKF8n8APkN4eWbFPEJVKhGFEOYlJyhU6nQ73V1Z43H6C1hprHUVRIKRk9vQpwjBM
-VJ7nVikl7969S7Va5fWz54hLMf1+n063gzaGwhhyYwiDkDiOicsJcVTCFsVe1p6HzjXWOZx1IARK
-KTY3N60A4gsXLtyK4/hD55xgf4IemHPjuYXv+y5JEqIoGg+70WhEv99/bnQ459xgMPj+9u3bnwjA
-A0Kgtr8+Q//npoEuMGL/0Zf7ROpfdAkI8Z//VfwOOccHC9C/RdYAAAAASUVORK5CYII=
-"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="6.3499999"
-       width="6.3499999" />
-    <image
-       y="155.18335"
-       x="-14.022919"
-       id="image9861"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAATdEVY
-dFRpdGxlAE9wdGljYWwgRHJpdmU+Z7oMAAAAFnRFWHRBdXRob3IATGFwbyBDYWxtYW5kcmVpt45T
-JgAAACN0RVh0U291cmNlAGh0dHA6Ly90YW5nby5mcmVlZGVza3RvcC5vcmd9soynAAACo0lEQVRI
-ie2VS2sTURTH/+fczGSCRayNlKRVEx+1FR8rF1o/gIJQUWxBcOWiLv0K2UlBdFk/hiBYC+5UEMGd
-LYhKu3AniiZpknvvucfFTIbU+gAf4KIH/swcmPv/nTn3RaqKfxn8T923Af8FoDCYLC7erZGJHoSg
-Bzd9pYAOJj8IYn5LwV24cePm2ncBXSdL06fOTOzauYtMwcCwATGDmcFEIKIcoRoQgkJDgASBiODT
-p49Hnz578hhAXmDeosZCo2q4UBvZXSbrLKy1cM7Bew/xHl5SExFBEIFIQBCBFw/vU+0pj1KxmIw1
-bjVqWwC95sb5yckpYk4rZWIQE5gJzAzDDDYG5idiwzgyMcluo3tuC8CLzB2oH4hDCCCi1Jw4Vd+c
-OTcrDJpzKqiiXqtH1trZTYD5+floo9U+OzJShu3ZFADKQBlgwNx8a55V78WjXN6DTqdzerYxG+cA
-G+z0+PhehQJefLoiqN+qQYj5bpuKSYKhHUMgYigUhw9NhKH15GwO6HU6MydOnCy12q3UHAQQACJg
-AJTOhYExhUwpsJQkSJIS4ihGt9vF8WPHSz3rZnKAQi9VK1VqZ4B8Xefq/wWBDW9pUafbRbvdQggC
-a3uoVscoIFzM94F42VfbX4cZGMzZ4Hzt58e6QhVQKDQoQggQEXjvEcdFiKTPIGEcAApERFfmLuPF
-y+eoVEdxde4aoihCHEeIoghRHCOOIkRZDgDOOTjrYJ2Dy/aLtQ7OOdy+s4Dm5yYAeCKiAgAD0PuV
-lVdjlcoolh49zCvuazBHv/r+u+qm/N3aG6ysrkIkrAMwpKq4MHP+Sikp3SPiYfyFEJGPrS/N68vL
-j++TqoKIGMAwgCl8cz79RngArwF8UNVA/RZQOpvmD837IZoZ0/al/6v4CghNO5CdCfCdAAAAAElF
-TkSuQmCC
-"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="6.3499999"
-       width="6.3499999" />
-    <image
-       y="181.1125"
-       x="-17.462492"
-       id="image10020"
-       xlink:href="data:image/png;base64,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
-"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="12.7"
-       width="12.7" />
-    <image
-       y="193.8125"
-       x="-17.462492"
-       id="image10242"
-       xlink:href="data:image/png;base64,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
-"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="12.7"
-       width="12.7" />
-    <image
-       y="206.5125"
-       x="-17.462492"
-       id="image10480"
-       xlink:href="data:image/png;base64,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
-RK5CYII=
-"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="12.7"
-       width="12.7" />
-    <image
-       y="219.21249"
-       x="-17.462492"
-       id="image10654"
-       xlink:href="data:image/png;base64,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
-"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="12.7"
-       width="12.7" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-120.12082"
-       y="163.12083"
-       id="text10750"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan10752"
-         x="-120.12082"
-         y="163.12083"
-         style="line-height:100%;stroke-width:0.26458332px">most ppl want latest</tspan><tspan
-         sodipodi:role="line"
-         x="-120.12082"
-         y="173.70416"
-         style="line-height:100%;stroke-width:0.26458332px"
-         id="tspan10754">default to that</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10746"
-       y="141.42497"
+       y="147.24573"
        x="17.19792"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10748"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="141.42497"
+         y="147.24573"
          x="17.19792"
          sodipodi:role="line">The Fedora version to install is Fedora 21 Workstation. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="139.43538"
-       y="141.42497"
+       y="147.24573"
        id="text10760"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="139.43538"
-         y="141.42497"
+         y="147.24573"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
          id="tspan10762">Customize ...</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 139.9646,142.61558 28.04583,0"
+       d="m 139.9646,148.43645 28.04583,0"
        id="path10764"
        inkscape:connector-curvature="0" />
     <rect
        ry="0.49178633"
        rx="1.157184"
-       y="213.12711"
+       y="218.94786"
        x="67.336472"
        height="10.583333"
        width="51.329166"
@@ -510,61 +149,40 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="125%"
        id="text10795"
-       y="219.74165"
+       y="225.56241"
        x="73.554169"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10797"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
-         y="219.74165"
+         y="225.56241"
          x="73.554169"
          sodipodi:role="line">Create Live USB</tspan></text>
-    <rect
-       style="opacity:1;fill:#d1d3d4;fill-opacity:1;stroke:none;stroke-width:0.22329456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect10817"
-       width="25.664583"
-       height="10.583333"
-       x="-40.084373"
-       y="213.12711"
-       rx="0.578592"
-       ry="0.49178633" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-34.925003"
-       y="219.74165"
-       id="text10819"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="-34.925003"
-         y="219.74165"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
-         id="tspan10821">Cancel</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10837"
        width="172.51666"
        height="9.5333385"
        x="7.8010426"
-       y="116.15313"
+       y="121.97394"
        rx="0"
        ry="0" />
     <text
        sodipodi:linespacing="125%"
        id="text10839"
-       y="122.63961"
+       y="128.46043"
        x="12.964579"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10841"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="122.63961"
+         y="128.46043"
          x="12.964579"
          sodipodi:role="line">LiveUSB Creator</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="118.00521"
+       y="123.82605"
        x="172.37187"
        height="5.8291717"
        width="5.5645781"
@@ -576,13 +194,13 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="5.5645781"
        height="5.8291717"
        x="164.43433"
-       y="118.00521"
+       y="123.82605"
        rx="0"
        ry="0" />
     <rect
        ry="0"
        rx="0"
-       y="118.00521"
+       y="123.82605"
        x="155.96762"
        height="5.8291717"
        width="5.5645781"
@@ -591,188 +209,171 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="100%"
        id="text10669"
-       y="122.26929"
-       x="183.94846"
+       y="-29.646702"
+       x="190.30946"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="122.26929"
-         x="183.94846"
+         y="-29.646702"
+         x="190.30946"
          sodipodi:role="line"
          id="tspan10681">- filter out drives &gt;90gb to avoid accidental </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="128.61929"
-         x="183.94846"
+         y="-23.296701"
+         x="190.30946"
          sodipodi:role="line"
          id="tspan10683">  deletions of data drives</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="184.21304"
-       y="189.20889"
+       x="192.07077"
+       y="-53.043411"
        id="text10780"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="184.21304"
-         y="189.20889"
+         x="192.07077"
+         y="-53.043411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         id="tspan10863">- fresh download by default, maybe some </tspan><tspan
-         sodipodi:role="line"
-         x="184.21304"
-         y="195.5589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         id="tspan10909">  checksum viewing</tspan></text>
+         id="tspan10909">- fresh download by default, automagic md5 checks</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text10865"
-       y="207.72978"
-       x="184.21304"
+       y="-42.380249"
+       x="192.44495"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10869"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="207.72978"
-         x="184.21304"
-         sodipodi:role="line">- persistent by default, dd by default</tspan></text>
+         y="-42.380249"
+         x="192.44495"
+         sodipodi:role="line">- persistent by default, dd by default (?)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="53.181278"
-       y="164.17906"
+       y="169.99982"
        id="text11166"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="53.181278"
-         y="164.17906"
+         y="169.99982"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
          id="tspan11168">Customize ...</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 53.710397,165.3698 28.045815,0"
+       d="m 53.710397,171.19067 28.045815,0"
        id="path11170"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="100%"
        id="text11211"
-       y="250.19534"
-       x="194.92865"
+       y="-274.24176"
+       x="11.581754"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="250.19534"
-         x="194.92865"
-         sodipodi:role="line">- is the unreliability bc of shakiness of filesystem or is it</tspan><tspan
+         y="-274.24176"
+         x="11.581754"
+         sodipodi:role="line">- is persistent storage bad bc the unreliability bc of shakiness of filesystem or is it</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="256.54535"
-         x="194.92865"
+         y="-267.89175"
+         x="11.581754"
          sodipodi:role="line"
          id="tspan11221">  because of the shakiness of the hardware??</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text11225"
-       y="167.51305"
-       x="184.21304"
+       y="-75.487617"
+       x="191.69659"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11229"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="167.51305"
-         x="184.21304"
+         y="-75.487617"
+         x="191.69659"
          sodipodi:role="line">- either not persistent or always persistent</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="173.86305"
-         x="184.21304"
+         y="-69.137619"
+         x="191.69659"
          sodipodi:role="line"
          id="tspan11233">  (use full space), depending on reliability </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="180.21304"
-         x="184.21304"
+         y="-62.787617"
+         x="191.69659"
          sodipodi:role="line"
          id="tspan11239">  (needs research)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.00261"
-       y="241.86098"
+       x="10.655713"
+       y="-282.57614"
        id="text11241"
        sodipodi:linespacing="100%"><tspan
          id="tspan11245"
          sodipodi:role="line"
-         x="194.00261"
-         y="241.86098"
+         x="10.655713"
+         y="-282.57614"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">RESEARCH NEEDED:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.92865"
-       y="265.54114"
+       x="11.581754"
+       y="-259.95432"
        id="text11249"
        sodipodi:linespacing="100%"><tspan
-         id="tspan11253"
          sodipodi:role="line"
-         x="194.92865"
-         y="265.54114"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- how much extra time does it take to create the</tspan><tspan
-         sodipodi:role="line"
-         x="194.92865"
-         y="271.89114"
+         x="11.581754"
+         y="-259.95432"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         id="tspan11257">  persistent storage? can it be sped up?</tspan></text>
+         id="tspan11257">- how much extra time does it take to create the persistent storage? </tspan><tspan
+         sodipodi:role="line"
+         x="11.581754"
+         y="-253.60431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         id="tspan12048">  can it be sped up?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="183.94846"
-       y="138.14429"
+       x="190.30946"
+       y="-13.771702"
        id="text11259"
        sodipodi:linespacing="100%"><tspan
          id="tspan11263"
          sodipodi:role="line"
-         x="183.94846"
-         y="138.14429"
+         x="190.30946"
+         y="-13.771702"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- if no drives detected, ask to insert</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text11267"
-       y="148.72763"
-       x="183.94846"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="148.72763"
-         x="183.94846"
-         sodipodi:role="line"
-         id="tspan11269">- if multiple detected, display selection widget</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11371"
        width="172.51666"
        height="138.38542"
        x="7.801043"
-       y="551.12799"
+       y="593.46149"
        rx="0"
        ry="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="17.19792"
-       y="581.69147"
+       y="624.02496"
        id="text11379"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="17.19792"
-         y="581.69147"
+         y="624.02496"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11381">We are now installing Fedora 21 Workstation to '2.0 GB Drive / 2.0</tspan><tspan
          sodipodi:role="line"
          x="17.19792"
-         y="587.86505"
+         y="630.19855"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11413">Flash Disk.'</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="551.12799"
+       y="593.46149"
        x="7.801043"
        height="9.5333385"
        width="172.51666"
@@ -782,12 +383,12 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="12.964578"
-       y="557.6145"
+       y="599.948"
        id="text11397"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="12.964578"
-         y="557.6145"
+         y="599.948"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11399">Fedora LiveUSB Creator</tspan></text>
     <rect
@@ -796,13 +397,13 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="5.5645781"
        height="5.8291717"
        x="172.37187"
-       y="552.9801"
+       y="595.3136"
        rx="0"
        ry="0" />
     <rect
        ry="0"
        rx="0"
-       y="552.9801"
+       y="595.3136"
        x="164.43433"
        height="5.8291717"
        width="5.5645781"
@@ -814,13 +415,13 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="5.5645781"
        height="5.8291717"
        x="155.96762"
-       y="552.9801"
+       y="595.3136"
        rx="0"
        ry="0" />
     <rect
        ry="0"
        rx="0"
-       y="617.17029"
+       y="659.50378"
        x="25.574467"
        height="6.3008204"
        width="136.96982"
@@ -832,66 +433,66 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="24.392952"
        height="6.3008204"
        x="25.574467"
-       y="617.17029"
+       y="659.50378"
        rx="0"
        ry="0" />
     <text
        sodipodi:linespacing="125%"
        id="text11419"
-       y="588.05249"
+       y="630.38599"
        x="45.074131"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11423"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
-         y="588.05249"
+         y="630.38599"
          x="45.074131"
          sodipodi:role="line">Stop install</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 45.494645,588.93148 24.882792,0"
+       d="m 45.494645,631.26484 24.882792,0"
        id="path11427"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="125%"
        id="text11429"
-       y="627.87567"
+       y="670.20917"
        x="24.467783"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11433"
          style="font-style:oblique;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Medium Oblique';fill:#58595b;stroke-width:0.26458332px"
-         y="627.87567"
+         y="670.20917"
          x="24.467783"
          sodipodi:role="line">Downloading image ....</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="182.7578"
-       y="571.92834"
+       y="614.26184"
        id="text11437"
        sodipodi:linespacing="100%"><tspan
          id="tspan11441"
          sodipodi:role="line"
          x="182.7578"
-         y="571.92834"
+         y="614.26184"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- need to think about best cancel pattern</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="93.788589"
-       y="621.5257"
+       y="663.85919"
        id="text11445"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="93.788589"
-         y="621.5257"
+         y="663.85919"
          style="font-style:oblique;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Medium Oblique';fill:#58595b;stroke-width:0.26458332px"
          id="tspan11447">About 7 minutes left to create Live USB...</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="699.2948"
+       y="752.21167"
        x="7.801043"
        height="138.38542"
        width="172.51666"
@@ -900,17 +501,17 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="125%"
        id="text11451"
-       y="772.19171"
+       y="825.10858"
        x="17.19792"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11455"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="772.19171"
+         y="825.10858"
          x="17.19792"
          sodipodi:role="line">We have successfully installed Fedora 21 Workstation to '2.0 GB Drive </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="778.3653"
+         y="831.28217"
          x="17.19792"
          sodipodi:role="line"
          id="tspan11489">/ 2.0 Flash Disk.' </tspan></text>
@@ -920,25 +521,25 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="172.51666"
        height="9.5333385"
        x="7.801043"
-       y="699.2948"
+       y="752.21167"
        rx="0"
        ry="0" />
     <text
        sodipodi:linespacing="125%"
        id="text11459"
-       y="705.78125"
+       y="758.69812"
        x="12.964578"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11461"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="705.78125"
+         y="758.69812"
          x="12.964578"
          sodipodi:role="line">Fedora LiveUSB Creator</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="701.14691"
+       y="754.06378"
        x="172.37187"
        height="5.8291717"
        width="5.5645781"
@@ -950,13 +551,13 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="5.5645781"
        height="5.8291717"
        x="164.43433"
-       y="701.14691"
+       y="754.06378"
        rx="0"
        ry="0" />
     <rect
        ry="0"
        rx="0"
-       y="701.14691"
+       y="754.06378"
        x="155.96762"
        height="5.8291717"
        width="5.5645781"
@@ -966,39 +567,39 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="112.80024"
-       y="800.30646"
+       y="853.22333"
        id="text11473"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="112.80024"
-         y="800.30646"
+         y="853.22333"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
          id="tspan11475">view the documentation.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path11477"
-       d="m 113.22074,801.18518 52.38484,0"
+       d="m 113.22074,854.10188 52.38484,0"
        style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="17.19792"
-       y="788.06677"
+       y="840.98364"
        id="text11495"
        sodipodi:linespacing="125%"><tspan
          id="tspan11499"
          sodipodi:role="line"
          x="17.19792"
-         y="788.06677"
+         y="840.98364"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px">You may now safely remove the disk from your system. To use the</tspan><tspan
          sodipodi:role="line"
          x="17.19792"
-         y="794.24036"
+         y="847.15723"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11503">disk, reboot and use the disk as your boot device. For more information</tspan><tspan
          sodipodi:role="line"
          x="17.19792"
-         y="800.414"
+         y="853.33087"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11505">on how to use your new live Fedora install, </tspan></text>
     <rect
@@ -1007,30 +608,30 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="40.057884"
        height="43.344376"
        x="73.094994"
-       y="716.50696"
+       y="769.42383"
        rx="0"
        ry="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="76.505028"
-       y="736.47339"
+       y="789.39026"
        id="text11509"
        sodipodi:linespacing="125%"><tspan
          id="tspan11513"
          sodipodi:role="line"
          x="76.505028"
-         y="736.47339"
+         y="789.39026"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px">Happy graphic</tspan><tspan
          sodipodi:role="line"
          x="76.505028"
-         y="742.64697"
+         y="795.56384"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11517">goes here.</tspan></text>
     <rect
        ry="0.49178633"
        rx="1.157184"
-       y="816.37732"
+       y="869.29419"
        x="65.74897"
        height="10.583333"
        width="51.329166"
@@ -1039,39 +640,39 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="125%"
        id="text11521"
-       y="822.99188"
+       y="875.90875"
        x="77.258324"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11523"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
-         y="822.99188"
+         y="875.90875"
          x="77.258324"
          sodipodi:role="line">Reboot now</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text11525"
-       y="720.09515"
+       y="773.01202"
        x="181.69948"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="720.09515"
+         y="773.01202"
          x="181.69948"
          sodipodi:role="line"
          id="tspan11527">- GNOME software can do the reboot now</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="726.44513"
+         y="779.362"
          x="181.69948"
          sodipodi:role="line"
          id="tspan11529">  button so this button should be possible</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="732.79517"
+         y="785.71204"
          x="181.69948"
          sodipodi:role="line"
          id="tspan11531">  on Linux, but on other OSes, not sure</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="739.14514"
+         y="792.06201"
          x="181.69948"
          sodipodi:role="line"
          id="tspan11533">  if this is possible.</tspan></text>
@@ -1079,43 +680,43 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="181.69948"
-       y="751.84528"
+       y="804.76215"
        id="text11535"
        sodipodi:linespacing="100%"><tspan
          id="tspan11543"
          sodipodi:role="line"
          x="181.69948"
-         y="751.84528"
+         y="804.76215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- Should not be an insta-reboot button, </tspan><tspan
          sodipodi:role="line"
          x="181.69948"
-         y="758.19525"
+         y="811.11212"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
          id="tspan11554">  instead should pop up system dialog</tspan><tspan
          sodipodi:role="line"
          x="181.69948"
-         y="764.54529"
+         y="817.46216"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
          id="tspan11556">  which has confirmation built-in</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text11558"
-       y="778.30371"
+       y="831.22058"
        x="181.69948"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11564"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="778.30371"
+         y="831.22058"
          x="181.69948"
          sodipodi:role="line">- If not possible to pop up system dialog,</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="784.65369"
+         y="837.57056"
          x="181.69948"
          sodipodi:role="line"
          id="tspan11571">  implement confirmation dialog here in</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="791.00372"
+         y="843.92059"
          x="181.69948"
          sodipodi:role="line"
          id="tspan11573">  this app</tspan></text>
@@ -1233,19 +834,19 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="172.51666"
        height="138.38542"
        x="7.8010426"
-       y="264.31989"
+       y="280.19485"
        rx="0"
        ry="0" />
     <text
        sodipodi:linespacing="125%"
        id="text11611"
-       y="303.61462"
+       y="319.48959"
        x="16.668751"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11615"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="303.61462"
+         y="319.48959"
          x="16.668751"
          sodipodi:role="line">Select the disk you would like to install the live environment on:</tspan></text>
     <rect
@@ -1254,25 +855,25 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="51.329166"
        height="10.583333"
        x="67.336472"
-       y="361.29361"
+       y="377.16858"
        rx="1.157184"
        ry="0.49178633" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="74.612503"
-       y="367.90814"
+       y="383.78311"
        id="text11629"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="74.612503"
-         y="367.90814"
+         y="383.78311"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
          id="tspan11631">Create Live USB</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="264.31989"
+       y="280.19485"
        x="7.8010426"
        height="9.5333385"
        width="172.51666"
@@ -1282,12 +883,12 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="12.964579"
-       y="270.80637"
+       y="286.68134"
        id="text11635"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="12.964579"
-         y="270.80637"
+         y="286.68134"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan11637">Fedora LiveUSB Creator</tspan></text>
     <rect
@@ -1296,13 +897,13 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="5.5645781"
        height="5.8291717"
        x="172.37187"
-       y="266.172"
+       y="282.04697"
        rx="0"
        ry="0" />
     <rect
        ry="0"
        rx="0"
-       y="266.172"
+       y="282.04697"
        x="164.43433"
        height="5.8291717"
        width="5.5645781"
@@ -1314,12 +915,12 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        width="5.5645781"
        height="5.8291717"
        x="155.96762"
-       y="266.172"
+       y="282.04697"
        rx="0"
        ry="0" />
     <g
        id="g11651"
-       transform="translate(0,15.875)">
+       transform="translate(0,31.750001)">
       <rect
          ry="0"
          rx="0"
@@ -1576,34 +1177,34 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="187.12361"
-       y="352.19214"
+       y="336.31717"
        id="text10709"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="187.12361"
-         y="352.19214"
+         y="336.31717"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
          id="tspan10722">- list in order of smallest to largest capacity</tspan><tspan
          sodipodi:role="line"
          x="187.12361"
-         y="358.54214"
+         y="342.66718"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
          id="tspan10886">  (smaller more likely to be expendable)</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text10738"
-       y="343.19629"
+       y="327.32132"
        x="187.3882"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10742"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="343.19629"
+         y="327.32132"
          x="187.3882"
          sodipodi:role="line">- scroll horizontally as needed</tspan></text>
     <g
        id="g11685"
-       transform="translate(0,148.1667)">
+       transform="translate(0,164.04171)">
       <text
          sodipodi:linespacing="125%"
          id="text11687"
@@ -1637,14 +1238,14 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="100%"
        id="text11699"
-       y="281.41611"
-       x="194.92865"
+       y="-244.60843"
+       x="11.581754"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11703"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="281.41611"
-         x="194.92865"
+         y="-244.60843"
+         x="11.581754"
          sodipodi:role="line">- is there any metadata available from isos?</tspan></text>
     <text
        sodipodi:linespacing="100%"
@@ -1657,19 +1258,19 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          y="-41.033627"
          x="8.0098839"
          sodipodi:role="line"
-         id="tspan11709">NEED M</tspan></text>
+         id="tspan11709">NO DISK INSERTED</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="8.0098839"
-       y="112.4247"
+       y="276.46646"
        id="text11711"
        sodipodi:linespacing="100%"><tspan
          id="tspan11713"
          sodipodi:role="line"
          x="8.0098839"
-         y="112.4247"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">DEFAULT OPENING SCREEN</tspan></text>
+         y="276.46646"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">IF MULTIPLE SUITABLE USB DISKS DETECTED</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text11715"
@@ -1930,83 +1531,73 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="100%"
        id="text11880"
-       y="582.51166"
+       y="624.84515"
        x="182.7578"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="582.51166"
+         y="624.84515"
          x="182.7578"
          sodipodi:role="line"
          id="tspan11882">- is it possible to write out to disk while</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="588.86163"
+         y="631.19513"
          x="182.7578"
          sodipodi:role="line"
          id="tspan11884">  download in progress? could save time...</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="595.21167"
+         y="637.54517"
          x="182.7578"
          sodipodi:role="line"
          id="tspan11886">  if interrupted or stopped for too long, </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="601.56165"
+         y="643.89514"
          x="182.7578"
          sodipodi:role="line"
          id="tspan11888">  could restart if needed?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="195.98695"
-       y="294.11581"
+       x="12.640058"
+       y="-234.55452"
        id="text11890"
        sodipodi:linespacing="100%"><tspan
-         id="tspan11892"
-         sodipodi:role="line"
-         x="195.98695"
-         y="294.11581"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- is it possible to write out to disk while</tspan><tspan
          id="tspan11894"
          sodipodi:role="line"
-         x="195.98695"
-         y="300.46582"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  download in progress? could save time...</tspan><tspan
-         id="tspan11896"
-         sodipodi:role="line"
-         x="195.98695"
-         y="306.81583"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  if interrupted or stopped for too long, </tspan><tspan
+         x="12.640058"
+         y="-234.55452"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- is it possible to write out to disk while download in progress? could save time...</tspan><tspan
          id="tspan11898"
          sodipodi:role="line"
-         x="195.98695"
-         y="313.1658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  could restart if needed?</tspan></text>
+         x="12.640058"
+         y="-228.20451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  if interrupted or stopped for too long, could restart if needed?</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text11902"
-       y="620.0824"
+       y="662.41589"
        x="184.34535"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="620.0824"
+         y="662.41589"
          x="184.34535"
          sodipodi:role="line"
          id="tspan11904">- this is not a Splash Mountain progress</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="626.43237"
+         y="668.76587"
          x="184.34535"
          sodipodi:role="line"
          id="tspan11906">  bar.... only one progress bar for ALL tasks,</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="632.78241"
+         y="675.11591"
          x="184.34535"
          sodipodi:role="line"
          id="tspan11908">  not one progress bar per task</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="408.25302"
+       y="434.7113"
        x="7.801043"
        height="138.38542"
        width="172.51666"
@@ -2015,7 +1606,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
     <rect
        ry="0.49178633"
        rx="1.157184"
-       y="509.45999"
+       y="535.9184"
        x="67.336472"
        height="10.583333"
        width="51.329166"
@@ -2024,17 +1615,17 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="125%"
        id="text11980"
-       y="516.07452"
+       y="542.53296"
        x="74.612503"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11982"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
-         y="516.07452"
+         y="542.53296"
          x="74.612503"
          sodipodi:role="line">Create Live USB</tspan></text>
     <g
-       transform="translate(0,164.04171)"
+       transform="translate(0,190.50006)"
        id="g11984">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.32088774;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2289,7 +1880,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
       </g>
     </g>
     <g
-       transform="translate(0,296.33346)"
+       transform="translate(0,322.79181)"
        id="g12024">
       <text
          xml:space="preserve"
@@ -2327,25 +1918,25 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        width="172.51666"
        height="9.5333385"
        x="7.801043"
-       y="408.25302"
+       y="434.7113"
        rx="0"
        ry="0" />
     <text
        sodipodi:linespacing="125%"
        id="text11920"
-       y="414.7395"
+       y="441.19778"
        x="12.964578"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11922"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="414.7395"
+         y="441.19778"
          x="12.964578"
          sodipodi:role="line">Fedora LiveUSB Creator</tspan></text>
     <rect
        ry="0"
        rx="0"
-       y="410.10513"
+       y="436.56342"
        x="172.37187"
        height="5.8291717"
        width="5.5645781"
@@ -2357,13 +1948,13 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        width="5.5645781"
        height="5.8291717"
        x="164.43433"
-       y="410.10513"
+       y="436.56342"
        rx="0"
        ry="0" />
     <rect
        ry="0"
        rx="0"
-       y="410.10513"
+       y="436.56342"
        x="155.96762"
        height="5.8291717"
        width="5.5645781"
@@ -2375,42 +1966,133 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        width="102.17132"
        height="68.788437"
        x="42.973709"
-       y="443.05151"
+       y="480.09311"
        rx="0"
        ry="0" />
     <text
        sodipodi:linespacing="125%"
        id="text11912"
-       y="453.30759"
+       y="490.34918"
        x="49.724754"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11914"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="453.30759"
+         y="490.34918"
          x="49.724754"
          sodipodi:role="line">We are about to install Fedora 21 </tspan><tspan
          id="tspan11916"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="459.4812"
+         y="496.5228"
          x="49.724754"
          sodipodi:role="line">Workstation to '2.0 GB Drive / 2.0 Flash </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="465.65482"
+         y="502.69641"
          x="49.724754"
          sodipodi:role="line"
          id="tspan11972">Disk.' This will wipe all data that may be </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="471.82843"
+         y="508.87003"
          x="49.724754"
          sodipodi:role="line"
          id="tspan12044">on the disk.</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text12054"
+       y="117.71637"
+       x="8.0098839"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="117.71637"
+         x="8.0098839"
+         sodipodi:role="line"
+         id="tspan12056">MORE OPTIONS VESRION OF UI</tspan></text>
+    <rect
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.22329457;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12060"
+       width="26.987499"
+       height="10.583333"
+       x="112.8448"
+       y="532.74341"
+       rx="0.60841632"
+       ry="0.49178633" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.94583"
+       y="539.35797"
+       id="text12062"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="116.94583"
+         y="539.35797"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan12064">Confirm</tspan></text>
+    <rect
+       ry="0.49178633"
+       rx="0.60841632"
+       y="532.74341"
+       x="81.09481"
+       height="10.583333"
+       width="26.987499"
+       id="rect12066"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.22329457;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text12068"
+       y="539.35797"
+       x="87.312515"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan12070"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#60605b;stroke-width:0.26458332px"
+         y="539.35797"
+         x="87.312515"
+         sodipodi:role="line">Cancel</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text12072"
+       y="429.9245"
+       x="8.0098839"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="429.9245"
+         x="8.0098839"
+         sodipodi:role="line"
+         id="tspan12074">ARE YOU SURE....?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.0098839"
+       y="590.26208"
+       id="text12076"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan12078"
+         sodipodi:role="line"
+         x="8.0098839"
+         y="590.26208"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">PROGRESS SCREEN</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text12080"
+       y="749.0127"
+       x="8.0098839"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="749.0127"
+         x="8.0098839"
+         sodipodi:role="line"
+         id="tspan12082">COMPLETED SCREEN</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Image Selection"
-     style="display:none">
+     style="display:none"
+     transform="translate(12.979189,399.12775)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10911"
