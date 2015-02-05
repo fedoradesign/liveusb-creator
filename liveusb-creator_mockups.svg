@@ -33,7 +33,7 @@
      inkscape:cx="627.05093"
      inkscape:cy="497.14286"
      inkscape:document-units="mm"
-     inkscape:current-layer="g11030"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1370"
@@ -58,7 +58,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-87)"
-     style="display:none">
+     style="display:inline">
     <rect
        ry="0"
        rx="0"
@@ -187,14 +187,19 @@
          x="16.668751"
          y="144.33545"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         id="tspan10657">Select a disk to install a live Fedora environment:</tspan></text>
+         id="tspan10657">The Fedora live environment will be installed to '2.0 GB Drive / </tspan><tspan
+         sodipodi:role="line"
+         x="16.668751"
+         y="150.50906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+         id="tspan11164">2.0 Flash Disk.' </tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.32088774;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9255"
        width="153.9312"
        height="25.343697"
        x="17.093779"
-       y="148.46465"
+       y="47.922997"
        rx="0"
        ry="0" />
     <image
@@ -438,7 +443,7 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
        height="12.7"
        width="12.7" />
     <image
-       y="149.3625"
+       y="48.82085"
        x="65.334763"
        id="image9958"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
@@ -491,25 +496,25 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="125%"
        id="text10661"
-       y="166.56041"
+       y="66.01873"
        x="58.017342"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10663"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="166.56041"
+         y="66.01873"
          x="58.017342"
          sodipodi:role="line">15.9 GB Drive</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="57.356716"
-       y="170.79376"
+       y="70.252068"
        id="text10665"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="57.356716"
-         y="170.79376"
+         y="70.252068"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan10667">Generic Flash Disk</tspan></text>
     <text
@@ -530,12 +535,12 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        width="30.963499"
        height="23.290579"
        x="18.649502"
-       y="149.4912"
+       y="48.94952"
        rx="0.6980527"
        ry="1.0822667" />
     <g
        id="g10695"
-       transform="translate(-47.095835,8.9958326)">
+       transform="translate(-47.095835,-91.545839)">
       <image
          y="140.36667"
          x="74.121193"
@@ -613,7 +618,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
            id="tspan10693">2.0 Flash Disk</tspan></text>
     </g>
     <g
-       transform="translate(53.445836,8.9958326)"
+       transform="translate(53.445836,-91.545839)"
        id="g10724">
       <image
          y="140.36667"
@@ -694,13 +699,13 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="125%"
        id="text10746"
-       y="189.05002"
+       y="162.59166"
        x="17.19792"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10748"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="189.05002"
+         y="162.59166"
          x="17.19792"
          sodipodi:role="line">The Fedora version to install is Fedora 21 Workstation. </tspan></text>
     <text
@@ -724,47 +729,47 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="139.43538"
-       y="189.05002"
+       y="162.59166"
        id="text10760"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="139.43538"
-         y="189.05002"
+         y="162.59166"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
          id="tspan10762">Customize ...</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 139.9646,190.24061 28.04583,0"
+       d="m 139.9646,163.78226 28.04583,0"
        id="path10764"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="17.19792"
-       y="201.75"
+       y="175.29164"
        id="text10766"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="17.19792"
-         y="201.75"
+         y="175.29164"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
          id="tspan10768">800 MB of persistent storage will be available.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10770"
-       y="201.75"
+       y="175.29164"
        x="121.97293"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan10772"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
-         y="201.75"
+         y="175.29164"
          x="121.97293"
          sodipodi:role="line">Customize ...</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path10774"
-       d="m 122.50208,202.94063 28.04583,0"
+       d="m 122.50208,176.48228 28.04583,0"
        style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        ry="0"
@@ -952,12 +957,29 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
            id="tspan10869">- persistent by default</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.181278"
+       y="150.42076"
+       id="text11166"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="53.181278"
+         y="150.42076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
+         id="tspan11168">Customize ...</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 53.710397,151.61144 28.045815,0"
+       id="path11170"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Image Selection"
-     style="display:inline">
+     style="display:none">
     <g
        id="g11030"
        transform="translate(-134.9375,-29.633333)">
