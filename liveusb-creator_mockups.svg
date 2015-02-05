@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="564.31913"
-     inkscape:cy="-729.28579"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="514.6135"
+     inkscape:cy="-743.84423"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,6 +59,13 @@
      id="layer1"
      transform="translate(0,-87)"
      style="display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11900"
+       width="143.93333"
+       height="90.487495"
+       x="190.5"
+       y="232.44167" />
     <rect
        ry="0"
        rx="0"
@@ -635,18 +642,18 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="100%"
        id="text11211"
-       y="259.72034"
-       x="192.28282"
+       y="250.19534"
+       x="194.92865"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="259.72034"
-         x="192.28282"
+         y="250.19534"
+         x="194.92865"
          sodipodi:role="line">- is the unreliability bc of shakiness of filesystem or is it</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="266.07034"
-         x="192.28282"
+         y="256.54535"
+         x="194.92865"
          sodipodi:role="line"
          id="tspan11221">  because of the shakiness of the hardware??</tspan></text>
     <text
@@ -674,30 +681,30 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="191.35678"
-       y="251.38597"
+       x="194.00261"
+       y="241.86098"
        id="text11241"
        sodipodi:linespacing="100%"><tspan
          id="tspan11245"
          sodipodi:role="line"
-         x="191.35678"
-         y="251.38597"
+         x="194.00261"
+         y="241.86098"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">RESEARCH NEEDED:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="192.28282"
-       y="275.06613"
+       x="194.92865"
+       y="265.54114"
        id="text11249"
        sodipodi:linespacing="100%"><tspan
          id="tspan11253"
          sodipodi:role="line"
-         x="192.28282"
-         y="275.06613"
+         x="194.92865"
+         y="265.54114"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- how much extra time does it take to create the</tspan><tspan
          sodipodi:role="line"
-         x="192.28282"
-         y="281.41614"
+         x="194.92865"
+         y="271.89114"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
          id="tspan11257">  persistent storage? can it be sped up?</tspan></text>
     <text
@@ -848,13 +855,13 @@ wrOidU9C6rdSrfR/4hKBEoESgRKB/zWBvwEAIVCesdfHeQAAAABJRU5ErkJggg==
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="192.28282"
+       x="182.7578"
        y="434.345"
        id="text11437"
        sodipodi:linespacing="100%"><tspan
          id="tspan11441"
          sodipodi:role="line"
-         x="192.28282"
+         x="182.7578"
          y="434.345"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- need to think about best cancel pattern</tspan></text>
     <text
@@ -1618,14 +1625,14 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
     <text
        sodipodi:linespacing="100%"
        id="text11699"
-       y="290.9411"
-       x="192.28282"
+       y="281.41611"
+       x="194.92865"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11703"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="290.9411"
-         x="192.28282"
+         y="281.41611"
+         x="194.92865"
          sodipodi:role="line">- is there any metadata available from isos?</tspan></text>
     <text
        sodipodi:linespacing="100%"
@@ -1912,19 +1919,78 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        sodipodi:linespacing="100%"
        id="text11880"
        y="444.92831"
-       x="192.28282"
+       x="182.7578"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
          y="444.92831"
-         x="192.28282"
+         x="182.7578"
          sodipodi:role="line"
          id="tspan11882">- is it possible to write out to disk while</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
          y="451.27832"
-         x="192.28282"
+         x="182.7578"
          sodipodi:role="line"
-         id="tspan11884">  download in progress? could save time...</tspan></text>
+         id="tspan11884">  download in progress? could save time...</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="457.62833"
+         x="182.7578"
+         sodipodi:role="line"
+         id="tspan11886">  if interrupted or stopped for too long, </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="463.9783"
+         x="182.7578"
+         sodipodi:role="line"
+         id="tspan11888">  could restart if needed?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="195.98695"
+       y="294.11581"
+       id="text11890"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan11892"
+         sodipodi:role="line"
+         x="195.98695"
+         y="294.11581"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- is it possible to write out to disk while</tspan><tspan
+         id="tspan11894"
+         sodipodi:role="line"
+         x="195.98695"
+         y="300.46582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  download in progress? could save time...</tspan><tspan
+         id="tspan11896"
+         sodipodi:role="line"
+         x="195.98695"
+         y="306.81583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  if interrupted or stopped for too long, </tspan><tspan
+         id="tspan11898"
+         sodipodi:role="line"
+         x="195.98695"
+         y="313.1658"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  could restart if needed?</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text11902"
+       y="482.49908"
+       x="184.34535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="482.49908"
+         x="184.34535"
+         sodipodi:role="line"
+         id="tspan11904">- this is not a Splash Mountain progress</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="488.84909"
+         x="184.34535"
+         sodipodi:role="line"
+         id="tspan11906">  bar.... only one progress bar for ALL tasks,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         y="495.1991"
+         x="184.34535"
+         sodipodi:role="line"
+         id="tspan11908">  not one progress bar per task</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
