@@ -30,10 +30,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="584.55093"
+     inkscape:cx="627.05093"
      inkscape:cy="497.14286"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g11030"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1370"
@@ -57,7 +57,8 @@
      inkscape:label="Base Window"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-87)">
+     transform="translate(0,-87)"
+     style="display:none">
     <rect
        ry="0"
        rx="0"
@@ -704,7 +705,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          sodipodi:role="line">The Fedora version to install is Fedora 21 Workstation. </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-120.12082"
        y="163.12083"
        id="text10750"
@@ -713,11 +714,11 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          id="tspan10752"
          x="-120.12082"
          y="163.12083"
-         style="stroke-width:0.26458332px;line-height:100%">most ppl want latest</tspan><tspan
+         style="line-height:100%;stroke-width:0.26458332px">most ppl want latest</tspan><tspan
          sodipodi:role="line"
          x="-120.12082"
-         y="218.25999"
-         style="stroke-width:0.26458332px;line-height:100%"
+         y="173.70416"
+         style="line-height:100%;stroke-width:0.26458332px"
          id="tspan10754">default to that</tspan></text>
     <text
        xml:space="preserve"
@@ -965,93 +966,31 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          rx="0"
          y="80.217743"
          x="154.90938"
-         height="104.78334"
+         height="90.231255"
          width="153.46666"
          id="rect10911"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text10915"
-         y="102.84377"
-         x="177.00626"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           id="tspan10917"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-           y="102.84377"
-           x="177.00626"
-           sodipodi:role="line">Select a Fedora flavor to install:</tspan></text>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect10921"
          width="127.27291"
          height="9.2687578"
          x="177.1344"
-         y="127.04901"
+         y="98.474022"
          rx="0"
          ry="0" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="179.65208"
-         y="133.80002"
+         y="105.22504"
          id="text10923"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="179.65208"
-           y="133.80002"
+           y="105.22504"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
            id="tspan10925">Fedora 21</tspan></text>
-      <rect
-         ry="0"
-         rx="0"
-         y="105.88236"
-         x="177.1344"
-         height="7.6812592"
-         width="127.27291"
-         id="rect10943"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text10945"
-         y="111.575"
-         x="179.65208"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           id="tspan10947"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-           y="111.575"
-           x="179.65208"
-           sodipodi:role="line">Workstation</tspan></text>
-      <path
-         transform="matrix(0.49062837,0,0,-0.36281402,180.24584,66.403503)"
-         inkscape:transform-center-y="0.16321086"
-         d="m 249.97283,-117.50129 -3.11658,0 -3.11659,0 1.55829,-2.69904 1.5583,-2.69904 1.55829,2.69904 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="0.52359878"
-         sodipodi:r2="1.7993613"
-         sodipodi:r1="3.5987225"
-         sodipodi:cy="-119.30065"
-         sodipodi:cx="246.85625"
-         sodipodi:sides="3"
-         id="path10949"
-         style="opacity:1;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.62711054;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="177.00626"
-         y="124.01044"
-         id="text10951"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="177.00626"
-           y="124.01044"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-           id="tspan10953">Select a Fedora release to install:</tspan></text>
       <path
          sodipodi:type="star"
          style="opacity:1;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.62711054;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1068,7 +1007,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          inkscape:randomized="0"
          d="m 249.97283,-117.50129 -3.11658,0 -3.11659,0 1.55829,-2.69904 1.5583,-2.69904 1.55829,2.69904 z"
          inkscape:transform-center-y="0.16321086"
-         transform="matrix(0.49062837,0,0,-0.36281402,180.24584,86.511837)" />
+         transform="matrix(0.49062837,0,0,-0.36281402,180.24584,57.936834)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1080,7 +1019,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
            x="170.12703"
            y="93.847939"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-           id="tspan10974">Automatically download Fedora image:</tspan></text>
+           id="tspan10974">Automatically download Fedora release:</tspan></text>
       <circle
          r="2.778125"
          cy="92.392715"
@@ -1097,18 +1036,18 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle10999"
          cx="164.70312"
-         cy="146.36771"
+         cy="116.73438"
          r="2.778125" />
       <text
          sodipodi:linespacing="125%"
          id="text11001"
-         y="148.3521"
+         y="118.71877"
          x="170.12703"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan11003"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-           y="148.3521"
+           y="118.71877"
            x="170.12703"
            sodipodi:role="line">Use my own image: </tspan></text>
       <rect
@@ -1117,13 +1056,13 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          width="25.664583"
          height="10.583333"
          x="279.2677"
-         y="170.3125"
+         y="154.43748"
          rx="0.578592"
          ry="0.49178633" />
       <rect
          ry="0.49178633"
          rx="0.578592"
-         y="170.3125"
+         y="154.43748"
          x="247.51773"
          height="10.583333"
          width="25.664583"
@@ -1132,7 +1071,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
       <rect
          ry="0"
          rx="0"
-         y="151.91988"
+         y="122.28651"
          x="177.1344"
          height="23.820841"
          width="127.27291"
@@ -1141,17 +1080,17 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
       <text
          sodipodi:linespacing="125%"
          id="text11007"
-         y="158.6709"
+         y="129.03754"
          x="179.65208"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan11009"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-           y="158.6709"
+           y="129.03754"
            x="179.65208"
            sodipodi:role="line">Fedora-Live-Workstation-x86_64-21-Alpha-TC4.iso</tspan></text>
       <path
-         transform="matrix(0.49062837,0,0,-0.36281402,180.24584,111.38267)"
+         transform="matrix(0.49062837,0,0,-0.36281402,180.24584,81.74933)"
          inkscape:transform-center-y="0.16321086"
          d="m 249.97283,-117.50129 -3.11658,0 -3.11659,0 1.55829,-2.69904 1.5583,-2.69904 1.55829,2.69904 z"
          inkscape:randomized="0"
@@ -1171,48 +1110,48 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="179.65208"
-         y="165.02089"
+         y="135.3875"
          id="text11013"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="179.65208"
-           y="165.02089"
+           y="135.3875"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
            id="tspan11015">Fedora-Live-Desktop-x86_64-20.iso</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text11017"
-         y="171.37088"
+         y="141.73749"
          x="179.65208"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan11019"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-           y="171.37088"
+           y="141.73749"
            x="179.65208"
            sodipodi:role="line">Browse ...</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="288.13123"
-         y="176.92705"
+         y="161.05203"
          id="text11023"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="288.13123"
-           y="176.92705"
+           y="161.05203"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
            id="tspan11025">OK</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text11137"
-         y="176.92705"
+         y="161.05203"
          x="253.73549"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan11139"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
-           y="176.92705"
+           y="161.05203"
            x="253.73549"
            sodipodi:role="line">Cancel</tspan></text>
     </g>
@@ -1259,7 +1198,7 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
          sodipodi:role="line">  most recent testing release. Then, no</tspan><tspan
          id="tspan11113"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="114.37972"
+         y="114.37973"
          x="186.85889"
          sodipodi:role="line">  more than 2 older stable releases.</tspan></text>
     <text
