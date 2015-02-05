@@ -29,7 +29,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
+     inkscape:zoom="1.4142136"
      inkscape:cx="514.6135"
      inkscape:cy="-545.85433"
      inkscape:document-units="mm"
@@ -59,6 +59,18 @@
      id="layer1"
      transform="translate(0,-87)"
      style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.668751"
+       y="451.78101"
+       id="text11974"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="16.668751"
+         y="451.78101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+         id="tspan11976">Select the disk you would like to install the live environment on:</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11900"
@@ -2000,33 +2012,315 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        width="172.51666"
        id="rect11910"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0.49178633"
+       rx="1.157184"
+       y="509.45999"
+       x="67.336472"
+       height="10.583333"
+       width="51.329166"
+       id="rect11978"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.22329456;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        sodipodi:linespacing="125%"
-       id="text11912"
-       y="448.5451"
-       x="52.37059"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text11980"
+       y="516.07452"
+       x="74.612503"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         id="tspan11914"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="448.5451"
-         x="52.37059"
-         sodipodi:role="line">We are about to install Fedora 21 </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="454.71872"
-         x="52.37059"
-         sodipodi:role="line"
-         id="tspan11970">Workstation to '2.0 GB Drive / 2.0</tspan><tspan
-         id="tspan11916"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="460.89233"
-         x="52.37059"
-         sodipodi:role="line">Flash Disk.' This will wipe all data</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
-         y="467.06595"
-         x="52.37059"
-         sodipodi:role="line"
-         id="tspan11972">that may be on the disk.</tspan></text>
+         id="tspan11982"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
+         y="516.07452"
+         x="74.612503"
+         sodipodi:role="line">Create Live USB</tspan></text>
+    <g
+       transform="translate(0,164.04171)"
+       id="g11984">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.32088774;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11986"
+         width="153.9312"
+         height="25.343697"
+         x="20.268774"
+         y="291.33969"
+         rx="0"
+         ry="0" />
+      <image
+         y="292.23755"
+         x="68.509781"
+         id="image11988"
+         xlink:href="data:image/png;base64,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
+"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="12.7"
+         width="12.7" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text11990"
+         y="309.43539"
+         x="61.192329"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan11992"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+           y="309.43539"
+           x="61.192329"
+           sodipodi:role="line">15.9 GB Drive</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="60.531708"
+         y="313.66873"
+         id="text11994"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="60.531708"
+           y="313.66873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+           id="tspan11996">Generic Flash Disk</tspan></text>
+      <rect
+         style="opacity:1;fill:#0093d9;fill-opacity:1;stroke:#0093d9;stroke-width:0.25733638;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11998"
+         width="30.963499"
+         height="23.290579"
+         x="21.824484"
+         y="292.36624"
+         rx="0.6980527"
+         ry="1.0822667" />
+      <g
+         id="g12000"
+         transform="translate(-43.920831,151.87087)">
+        <image
+           y="140.36667"
+           x="74.121193"
+           id="image12002"
+           xlink:href="data:image/png;base64,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
+"
+           style="image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="12.7"
+           width="12.7" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text12004"
+           y="157.56458"
+           x="68.196045"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan12006"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
+             y="157.56458"
+             x="68.196045"
+             sodipodi:role="line">2.0 GB Drive</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="69.192001"
+           y="161.79793"
+           id="text12008"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="69.192001"
+             y="161.79793"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke-width:0.26458332px"
+             id="tspan12010">2.0 Flash Disk</tspan></text>
+      </g>
+      <g
+         transform="translate(56.620849,151.87087)"
+         id="g12012">
+        <image
+           y="140.36667"
+           x="48.64534"
+           id="image12014"
+           xlink:href="data:image/png;base64,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
+"
+           style="image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="12.7"
+           width="12.7" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text12016"
+           y="157.56458"
+           x="42.817562"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan12018"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+             y="157.56458"
+             x="42.817562"
+             sodipodi:role="line">64.1 GB Drive</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="42.7757"
+           y="161.79793"
+           id="text12020"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="42.7757"
+             y="161.79793"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+             id="tspan12022">CBM Flash Disk</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(0,296.33346)"
+       id="g12024">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="17.19792"
+         y="141.42497"
+         id="text12026"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="17.19792"
+           y="141.42497"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+           id="tspan12028">The Fedora version to install is Fedora 21 Workstation. </tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text12030"
+         y="141.42497"
+         x="139.43538"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan12032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#0093d9;stroke-width:0.26458332px"
+           y="141.42497"
+           x="139.43538"
+           sodipodi:role="line">Customize ...</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12034"
+         d="m 139.9646,142.61558 28.04583,0"
+         style="fill:none;fill-rule:evenodd;stroke:#0093d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11918"
@@ -2075,6 +2369,42 @@ b9nuENhuu0Ngu+0Oge22rzyB/wH5Qea3UupqCwAAAABJRU5ErkJggg==
        width="5.5645781"
        id="rect11928"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458335;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458335;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12036"
+       width="102.17132"
+       height="68.788437"
+       x="42.973709"
+       y="443.05151"
+       rx="0"
+       ry="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11912"
+       y="453.30759"
+       x="49.724754"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan11914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+         y="453.30759"
+         x="49.724754"
+         sodipodi:role="line">We are about to install Fedora 21 </tspan><tspan
+         id="tspan11916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+         y="459.4812"
+         x="49.724754"
+         sodipodi:role="line">Workstation to '2.0 GB Drive / 2.0 Flash </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+         y="465.65482"
+         x="49.724754"
+         sodipodi:role="line"
+         id="tspan11972">Disk.' This will wipe all data that may be </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.26458332px"
+         y="471.82843"
+         x="49.724754"
+         sodipodi:role="line"
+         id="tspan12044">on the disk.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
