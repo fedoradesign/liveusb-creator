@@ -30,8 +30,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="718.8969"
-     inkscape:cy="4195.9585"
+     inkscape:cx="731.82853"
+     inkscape:cy="4235.9585"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,7 @@
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      fit-margin-top="20"
      fit-margin-left="20"
      fit-margin-right="20"
@@ -64,12 +64,12 @@
      transform="translate(12.979189,312.12775)"
      style="display:inline">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.32491001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#58595b;stroke-width:0.36628562;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11900"
-       width="320.56204"
-       height="76.956779"
-       x="15.649866"
-       y="-291.9653" />
+       width="320.52066"
+       height="97.81749"
+       x="15.670554"
+       y="-305.17377" />
     <rect
        ry="0"
        rx="0"
@@ -259,20 +259,15 @@
     <text
        sodipodi:linespacing="100%"
        id="text11211"
-       y="-274.24176"
+       y="-288.00003"
        x="20.048353"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         id="tspan11215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="-274.24176"
-         x="20.048353"
-         sodipodi:role="line">- is persistent storage bad bc the unreliability bc of shakiness of filesystem or is it</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="-267.89175"
+         y="-288.00003"
          x="20.048353"
          sodipodi:role="line"
-         id="tspan11221">  because of the shakiness of the hardware??</tspan></text>
+         id="tspan11221">- is persistent storage bad bc the unreliability bc of shakiness of filesystem or is it because of the shakiness of the hardware??</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text11225"
@@ -299,31 +294,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="19.122313"
-       y="-282.57614"
+       y="-296.33441"
        id="text11241"
        sodipodi:linespacing="100%"><tspan
          id="tspan11245"
          sodipodi:role="line"
          x="19.122313"
-         y="-282.57614"
+         y="-296.33441"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">RESEARCH NEEDED:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="20.048353"
-       y="-259.95432"
+       y="-273.71259"
        id="text11249"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="20.048353"
-         y="-259.95432"
+         y="-273.71259"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         id="tspan11257">- how much extra time does it take to create the persistent storage? </tspan><tspan
-         sodipodi:role="line"
-         x="20.048353"
-         y="-253.60431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         id="tspan12048">  can it be sped up?</tspan></text>
+         id="tspan12048">- how much extra time does it take to create the persistent storage? can it be sped up?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -791,13 +781,13 @@
     <text
        sodipodi:linespacing="100%"
        id="text11699"
-       y="-244.60843"
+       y="-250.42934"
        x="20.048353"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11703"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
-         y="-244.60843"
+         y="-250.42934"
          x="20.048353"
          sodipodi:role="line">- is there any metadata available from isos?</tspan></text>
     <text
@@ -1062,19 +1052,19 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="21.106657"
-       y="-234.55452"
+       y="-226.61705"
        id="text11890"
        sodipodi:linespacing="100%"><tspan
-         id="tspan11894"
-         sodipodi:role="line"
-         x="21.106657"
-         y="-234.55452"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- is it possible to write out to disk while download in progress? could save time...</tspan><tspan
          id="tspan11898"
          sodipodi:role="line"
          x="21.106657"
-         y="-228.20451"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">  if interrupted or stopped for too long, could restart if needed?</tspan></text>
+         y="-226.61705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px">- is it possible to write out to disk while download in progress? could save time... if interrupted or stopped for too long, could </tspan><tspan
+         sodipodi:role="line"
+         x="21.106657"
+         y="-220.26704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.12365571px"
+         id="tspan4502">  restart if needed?</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text11902"
@@ -1893,6 +1883,74 @@
        id="path5766-6-3"
        d="m 16.179772,868.3959 171.622708,0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.398359"
+       y="-281.65012"
+       id="text4470"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4472"
+         sodipodi:role="line"
+         x="26.398359"
+         y="-281.65012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#000000;stroke-width:0.12365571px">It's bc of device-mapper. The merge of unionfs into the kernel could fix the issue. </tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4476"
+       y="-265.77515"
+       x="26.398359"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#000000;stroke-width:0.12365571px"
+         y="-265.77515"
+         x="26.398359"
+         sodipodi:role="line"
+         id="tspan4478">As long as it takes to 'dd' a file of that size. Since vfat apparently cannot handle sparse files, using a non-FAT filesystem by </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#000000;stroke-width:0.12365571px"
+         y="-259.42514"
+         x="26.398359"
+         sodipodi:role="line"
+         id="tspan4480">default will probably speed up the creation of it. https://github.com/lmacken/liveusb-creator/blob/develop/liveusb/creator.py#L264-L270</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4482"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4484"><rect
+           id="rect4486"
+           width="138"
+           height="54"
+           x="401"
+           y="313.82193" /></flowRegion><flowPara
+         id="flowPara4488"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.398359"
+       y="-242.49191"
+       id="text4492"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4496"
+         sodipodi:role="line"
+         x="26.398359"
+         y="-242.49191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#000000;stroke-width:0.12365571px"> It should be pretty easy to filter by product or type of image (live/netinst/dvd). The code that scrapes the releases is here: </tspan><tspan
+         sodipodi:role="line"
+         x="26.398359"
+         y="-236.14191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#000000;stroke-width:0.12365571px"
+         id="tspan4500">https://github.com/lmacken/liveusb-creator/blob/develop/liveusb/releases.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9462285px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12365571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.398359"
+       y="-212.85844"
+       id="text4504"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4508"
+         sodipodi:role="line"
+         x="26.398359"
+         y="-212.85844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#000000;stroke-width:0.12365571px">Yes, and we should calculate the checksum on the fly while downloading+dd-ing.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
